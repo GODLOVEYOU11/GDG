@@ -1,5 +1,6 @@
 {
 "show": "YES",
 "url": "http://www.baidu.com",
-"name": "NO"
+"version": "1"
+“updateUrl”:"http://www.baidu.com"
 }
