@@ -1,7 +1,7 @@
 {
-"show": "YES",
-"url": "http://www.baidu.com",
+"show": "NO",
+"url": "",
 "version": "1.0",
 "updateUrl": "http://www.baidu.com",
-"ISUPDATEAD": "YES"
+"ADVersion": "1.0"
 }
